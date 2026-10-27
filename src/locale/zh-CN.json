@@ -1,0 +1,8 @@
+{
+  "Paste to upload": "粘贴上传",
+  "Press {{shortcut}} to paste": "按 {{shortcut}} 粘贴上传",
+  "File type not allowed: {{name}}": "文件类型不符合要求：{{name}}（支持类型：{{accept}}）",
+  "File size exceeds limit: {{name}}": "文件大小超出限制：{{name}}（限制 {{limit}}，当前 {{current}}）",
+  "Single file upload only, uploading the first file": "当前上传组件仅支持单文件上传，已为您上传第 1 个文件（{{name}}）",
+  "Pasted {{count}} file(s), uploading...": "已从剪贴板捕获 {{count}} 个文件并开始上传..."
+}

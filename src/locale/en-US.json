@@ -1,0 +1,8 @@
+{
+  "Paste to upload": "Paste to upload",
+  "Press {{shortcut}} to paste": "Press {{shortcut}} to paste",
+  "File type not allowed: {{name}}": "File type not allowed: {{name}} (Allowed: {{accept}})",
+  "File size exceeds limit: {{name}}": "File size exceeds limit: {{name}} (Limit: {{limit}}, Current: {{current}})",
+  "Single file upload only, uploading the first file": "Single file upload only, uploading the first file: {{name}}",
+  "Pasted {{count}} file(s), uploading...": "Pasted {{count}} file(s), uploading..."
+}

@@ -1,0 +1,52 @@
+{
+  "name": "@nocobase/plugin-paste-upload",
+  "displayName": "Paste to Upload",
+  "displayName.zh-CN": "剪贴板粘贴上传",
+  "description": "Hover over attachment/upload components and paste (Ctrl+V / Cmd+V) to upload images and files directly from clipboard.",
+  "description.zh-CN": "鼠标悬停在附件或文件上传组件区域时，直接按快捷键（Ctrl+V / Cmd+V）捕获剪贴板图片与文件并自动触发上传。",
+  "version": "0.1.0",
+  "main": "server.js",
+  "client": "client.js",
+  "client-v2": "client-v2.js",
+  "files": [
+    "dist",
+    "server.js",
+    "server.d.ts",
+    "client.js",
+    "client.d.ts",
+    "client-v2.js",
+    "client-v2.d.ts",
+    "package.json",
+    "README.md",
+    "README.en-US.md"
+  ],
+  "nocobase": {
+    "supportedVersions": [
+      "2.x"
+    ]
+  },
+  "peerDependencies": {
+    "@nocobase/client": ">=2.2.0",
+    "@nocobase/client-v2": ">=2.2.0",
+    "@nocobase/server": ">=2.2.0",
+    "antd": ">=5.0.0",
+    "react": ">=18.0.0"
+  },
+  "devDependencies": {
+    "vitest": "^1.6.1"
+  },
+  "license": "AGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/STlxx-lin/nocobase-plugin-paste-upload.git"
+  },
+  "homepage": "https://github.com/STlxx-lin/nocobase-plugin-paste-upload#readme",
+  "keywords": [
+    "nocobase",
+    "nocobase-plugin",
+    "paste-upload",
+    "clipboard",
+    "file-upload",
+    "attachment"
+  ]
+}
